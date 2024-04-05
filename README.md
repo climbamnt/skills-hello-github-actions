@@ -24,7 +24,7 @@ _Create a GitHub Action and use it in a workflow._
 
 _You've now got a fully functioning workflow! :smile:_
 
-(Don't forget to cheer on Iowa Women's basketball :basketball: in the NCAA tournament)
+(Don't forget to cheer on Iowa Women's basketball :basketball: in the NCAA tournament!)
 
 Your new action will run any time a pull request has been opened.
 
